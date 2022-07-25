@@ -1,5 +1,5 @@
 function [y] = betadist(alph,b)
-
+% betadist function
 i=0;
 for x=.01:.01:1
     i=i+1;
