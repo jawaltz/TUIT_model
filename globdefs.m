@@ -15,6 +15,7 @@ global cond
 global j
 global k
 
+% initialize
 j=0;
 k=0;
 % global emoNames;
